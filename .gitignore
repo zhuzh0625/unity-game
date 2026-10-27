@@ -1,0 +1,52 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uilds/
+/[Bb]uild/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/tmp/
+/Assets/tmp/
+/Assets/tmp.meta
+/Assets/Docs/
+/Assets/Docs.meta
+
+# Local screenshots and test/build receipts; keep the maintained reports.
+/Docs/*
+!/Docs/*.md
+
+# Unused template content and one-off debugging script.
+/Assets/TutorialInfo/
+/Assets/TutorialInfo.meta
+/Assets/Readme.asset
+/Assets/Readme.asset.meta
+/Assets/Scenes/SampleScene.unity
+/Assets/Scenes/SampleScene.unity.meta
+/Tools/reproduce-facing.cs
+
+# Generated IDE state.
+/.vs/
+/.idea/
+/.vscode/
+/.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Backups and machine-local files.
+*.blend[0-9]*
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
