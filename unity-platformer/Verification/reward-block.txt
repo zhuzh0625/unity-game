@@ -1,0 +1,9 @@
+PASS Test starts with an unused reward block
+PASS Actual side contact does not award coins
+PASS Actual landing on top does not award coins
+PASS Player is grounded beneath the reward block
+PASS First real head hit awards exactly five coins and records one block
+PASS Reward has active visible coin renderers after the head hit
+PASS HUD displays the +5 COINS reward message
+PASS HUD coin total matches the five-coin reward
+PASS Repeated real head hit cannot award again

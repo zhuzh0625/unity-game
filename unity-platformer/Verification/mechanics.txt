@@ -1,0 +1,15 @@
+PASS Player rests on ground
+PASS Variable jump height (tap=1.05, hold=2.45)
+PASS Keyboard-equivalent horizontal movement
+PASS Coin collection is one-shot
+PASS Reward block activated by head collision
+PASS Reward block cannot pay twice
+PASS Stomp and bounce at 8 different fall timings
+PASS Side contact with enemy damages instead of stomping
+PASS First checkpoint activates
+PASS Pit death returns to checkpoint with full health
+PASS Spike damage and temporary invulnerability
+PASS Moving platform carries standing player
+PASS Jumping from a moving platform
+PASS Pause freezes movement
+PASS Sun gate triggers completion screen

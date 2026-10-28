@@ -1,0 +1,15 @@
+PASS Six recessed spike pits exist
+PASS Pit collision roots have identity rotation and unit scale
+PASS All six openings expose their recessed floor without an invisible ground bridge
+PASS Both banks of every pit retain ground support
+PASS Damage volumes stay below the walking surface
+PASS All six pits match their planned 2 m tile boundaries and ground heights
+PASS All six ground ranges retain complete original 2 m tiles and any original 1 m tail
+PASS No GrassTile overlaps any of the six pit openings
+PASS Every complete patrol interval and visual footprint avoid pits and retain bank support
+PASS Safe bank supports the player without damage after spawn protection expires
+PASS Walking into the opening causes a real fall and exactly one heart of damage
+PASS Post-hit protection prevents immediate repeated damage
+PASS Player can stand on the pit floor after the damage bounce
+PASS A normal jump from the floor returns the player to the bank
+PASS A normal held jump crosses the pit without damage or falling in

@@ -1,0 +1,11 @@
+{
+  "status": "completed",
+  "buildId": "build_27e866f24894",
+  "result": "Succeeded",
+  "platform": "StandaloneWindows64",
+  "outputPath": "D:/workspace/game/unity-game/unity-platformer/Builds/Windows/CloudSprout.exe",
+  "totalSizeBytes": 106874933,
+  "buildTimeMs": 18835,
+  "totalWarnings": 0,
+  "totalErrors": 0
+}

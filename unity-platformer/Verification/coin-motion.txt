@@ -1,0 +1,8 @@
+PASS Verification starts in the menu
+PASS Ordinary coins are present (count=88)
+PASS Menu and all ordinary coins remain active throughout observation
+PASS Observed actual coin updates for at least three seconds (frames=85)
+PASS All coins share the same vertical displacement (maximum difference=0.000000)
+PASS Coins keep their original X/Z coordinates (maximum drift=0.000000)
+PASS Every sampled XY center distance is at least 1.5 m (minimum=1.7678)
+PASS Observed vertical peak-to-trough span is approximately 0.2 m (span=0.1999)
