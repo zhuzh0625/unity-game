@@ -1,0 +1,23 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uilds/
+.vs/
+.vsconfig
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.blend1
+*.blend2
+*.blend[0-9]*
+tmp/
+Assets/tmp.meta
+
+# Local acceptance screenshots and machine-specific reports.
+/doc/*.png
+/doc/*.json
+/doc/*-verification.txt

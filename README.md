@@ -1,17 +1,18 @@
 # Unity 游戏 Monorepo
 
-本仓库统一管理两个独立的 Unity 工程，使用 Unity `6000.3.23f1`。
+本仓库统一管理多个独立的 Unity 工程，使用 Unity `6000.3.23f1`。
 
 | 工程目录 | 内容 | 说明入口 |
 | --- | --- | --- |
 | `unity-demo/` | Orbit Collector 演示 | [DEMO.md](unity-demo/DEMO.md) |
 | `unity-tank/` | 坦克游戏 | [README.md](unity-tank/README.md) |
+| `unity-racing/` | 海岸疾驰 3D 赛车 | [README.md](unity-racing/README.md) |
 
 ## 打开与开发
 
-在 Unity Hub 中分别添加 `unity-demo/` 或 `unity-tank/`，打开需要开发的工程。仓库根目录是 Git 管理入口，不是 Unity 工程目录。
+在 Unity Hub 中添加需要开发的子工程目录，例如 `unity-racing/`。仓库根目录是 Git 管理入口，不是 Unity 工程目录。
 
-两个工程分别维护自己的 `Assets/`、`Packages/`、`ProjectSettings/` 和 `.gitignore`。资源及对应的 `.meta` 文件应一起提交；`Library/`、日志和构建产物继续由各工程的忽略规则排除。新检出首次打开时，Unity 会重新生成本地缓存。
+各工程分别维护自己的 `Assets/`、`Packages/`、`ProjectSettings/` 和 `.gitignore`。资源及对应的 `.meta` 文件应一起提交；`Library/`、日志和构建产物继续由各工程的忽略规则排除。新检出首次打开时，Unity 会重新生成本地缓存。
 
 在仓库根目录统一查看变更、提交和推送。修改任意工程后，可用 `git status` 查看整个仓库状态。
 
