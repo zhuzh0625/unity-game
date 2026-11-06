@@ -1,0 +1,41 @@
+PASS Four-direction animation atlas is present
+PASS Combat audio clips and playback source initialize
+PASS A zone uses one tiled floor renderer
+PASS Prompt selects the same nearest loot as the action
+PASS Keyboard E picks up the displayed item
+PASS E immediately after a kill is accepted during hit stop
+PASS An entrance takes priority over loot with a full bag
+PASS Camp to wilderness enters at its western gate
+PASS Wilderness to crypt enters at its western gate
+PASS Crypt return enters wilderness at the eastern gate
+PASS Wilderness return enters camp at the eastern gate
+PASS Unchanged open inventory does not rebuild its text
+PASS Full inventory and affix comparison fit the panel
+PASS Mouse button remains usable on the separate inventory canvas
+PASS R consumes the displayed gold and upgrades the selected gear
+PASS Upgrade limit blocks further spending
+PASS Equipping swift gear changes attack speed
+PASS V sells exactly the selected bag item
+PASS Save roundtrip preserves affix, upgrades and gold
+PASS Selling and upgrading are rejected outside camp
+PASS Help pauses enemy movement and character animation
+PASS Enemy navigates through the opening around the crypt divider
+PASS Cleave cannot damage through the divider
+PASS Frost cannot damage through the divider
+PASS Wall blocks both auto-targeting and the projectile
+PASS Sword does not apply damage before the hit frame
+PASS Sword applies damage at its hit frame with a clear path
+PASS A skill pressed during a sword windup is buffered and cast
+PASS K dodge grants its short invulnerability window
+PASS Dodge stops at walls and starts its cooldown
+PASS Half-health boss enters the faster second phase
+PASS Equipped focus affix shortens a real skill cooldown
+PASS Equipped focus affix increases resource regeneration
+PASS Equipped leech affix heals from actual damage
+PASS Movement selects directional idle frame 0
+PASS Movement selects directional idle frame 1
+PASS Movement selects directional idle frame 2
+PASS Movement selects directional idle frame 3
+PASS Sword animation displays its directional attack frame
+PASS Original version-1 saves load with neutral new fields
+PASS Invalid gear entries recover the valid backup

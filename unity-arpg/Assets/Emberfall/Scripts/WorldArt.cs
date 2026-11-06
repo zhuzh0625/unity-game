@@ -3,12 +3,16 @@ namespace Emberfall
 {
     public static class WorldArt
     {
-        static Sprite square,disc,ring,glow,soilPatch;static Texture2D atlas;
+        static Sprite square,disc,ring,glow,soilPatch,slash;static Texture2D atlas,heroAtlas,enemyAtlas;
+        static readonly Sprite[] heroFrames=new Sprite[16],icons=new Sprite[7];
+        static readonly Sprite[] enemyFrames=new Sprite[16];
+        static readonly float[] enemyFeet={.09f,.155f,.195f,.255f},enemyPixels={.72f,.72f,.75f,.69f};
         static readonly Sprite[] sprites=new Sprite[16],tiles=new Sprite[4];
         public static Sprite Square=>square?square:square=Make(0);
         public static Sprite Disc=>disc?disc:disc=Make(1);
         public static Sprite Ring=>ring?ring:ring=Make(2);
         public static Sprite Glow=>glow?glow:glow=Make(3);
+        public static Sprite Slash=>slash?slash:slash=Make(4);
         static Sprite Make(int type)
         {
             const int n=96;var tex=new Texture2D(n,n){filterMode=FilterMode.Bilinear};var px=new Color[n*n];
@@ -16,6 +20,7 @@ namespace Emberfall
             {
                 float d=Vector2.Distance(new Vector2(x+.5f,y+.5f),Vector2.one*n*.5f)/(n*.5f);
                 float a=type==0?1:type==1?Mathf.Clamp01((1-d)*12):type==2?Mathf.Clamp01((1-d)*30)*Mathf.Clamp01((d-.83f)*25):Mathf.Pow(Mathf.Clamp01(1-d),2);
+                if(type==4)a=Mathf.Clamp01((1-d)*18)*Mathf.Clamp01((d-.68f)*16)*Mathf.Clamp01((1.45f-Mathf.Abs(Mathf.Atan2(y-n*.5f,x-n*.5f)))*5);
                 px[y*n+x]=new Color(1,1,1,a);
             }
             tex.SetPixels(px);tex.Apply();return Sprite.Create(tex,new Rect(0,0,n,n),Vector2.one*.5f,n);
@@ -27,6 +32,44 @@ namespace Emberfall
             if(!atlas)throw new System.InvalidOperationException("Emberfall art atlas is missing.");
             float w=atlas.width/4f,h=atlas.height/4f;
             return sprites[index]=Sprite.Create(atlas,new Rect(index%4*w,(3-index/4)*h,w,h),Vector2.one*.5f,w);
+        }
+        public static Sprite HeroFrame(int row,int frame)
+        {
+            int index=row*4+frame;if(heroFrames[index])return heroFrames[index];
+            if(!heroAtlas)heroAtlas=Resources.Load<Texture2D>("Art/WandererDirections");
+            if(!heroAtlas)return Asset(0);
+            float w=heroAtlas.width/4f,h=heroAtlas.height/4f;
+            // The westward sword extends left into the transparent gutter; preserve its tip.
+            float extra=row==3&&frame==3?w*.13f:0;
+            return heroFrames[index]=Sprite.Create(heroAtlas,new Rect(frame*w-extra,(3-row)*h,w+extra,h),new Vector2((w*.5f+extra)/(w+extra),.5f),w);
+        }
+        public static Sprite GearIcon(int slot)=>Icon(slot==0?0:5);
+        public static Sprite EnemyFrame(int kind,int frame)
+        {
+            int index=kind*4+frame;if(enemyFrames[index])return enemyFrames[index];
+            if(!enemyAtlas)enemyAtlas=Resources.Load<Texture2D>("Art/EnemyAttacks");
+            if(!enemyAtlas)throw new System.InvalidOperationException("Enemy attack atlas is missing.");
+            float w=enemyAtlas.width/4f,h=enemyAtlas.height/4f;
+            // Row-specific foot anchors keep all four poses planted at the same world position.
+            var sprite=Sprite.Create(enemyAtlas,new Rect(frame*w,(3-kind)*h,w,h),new Vector2(.5f,enemyFeet[kind]),w*enemyPixels[kind]);
+            sprite.name="Enemy "+kind+" attack frame "+frame;return enemyFrames[index]=sprite;
+        }
+        public static Sprite Icon(int index)
+        {
+            if(icons[index])return icons[index];const int n=64;
+            var texture=new Texture2D(n,n){filterMode=FilterMode.Bilinear};var pixels=new Color[n*n];
+            for(int y=0;y<n;y++)for(int x=0;x<n;x++)
+            {
+                float px=(x+ .5f)/n*2-1,py=(y+.5f)/n*2-1;bool on=false;
+                if(index==0||index==1){on=(Mathf.Abs(px)<.09f&&py>-.55f&&py<.8f)||(Mathf.Abs(py+.35f)<.06f&&Mathf.Abs(px)<.35f);if(index==1)on|=Mathf.Abs(Mathf.Sqrt(px*px+py*py)-.68f)<.07f&&px>.1f;}
+                else if(index==2){for(int a=0;a<3;a++){float angle=a*Mathf.PI/3;on|=Mathf.Abs(px*Mathf.Cos(angle)-py*Mathf.Sin(angle))<.045f&&px*px+py*py<.65f;}}
+                else if(index==3)on=(px*px/.22f+(py+.2f)*(py+.2f)/.42f<1)||(py>.1f&&py<.85f&&Mathf.Abs(px-py*.18f)<(.85f-py)*.4f);
+                else if(index==4)on=Mathf.Abs(Mathf.Abs(py)-(.55f-px*.65f))<.1f&&px>-.55f&&px<.65f;
+                else if(index==5)on=(Mathf.Abs(px)<.42f&&py>-.65f&&py<.4f)||(Mathf.Abs(px)<.72f&&Mathf.Abs(px)>.3f&&py>.05f&&py<.55f);
+                else on=(px*px/.3f+(py+.15f)*(py+.15f)/.4f<1)||(Mathf.Abs(px)<.2f&&py>.1f&&py<.7f);
+                pixels[y*n+x]=on?Color.white:Color.clear;
+            }
+            texture.SetPixels(pixels);texture.Apply();return icons[index]=Sprite.Create(texture,new Rect(0,0,n,n),Vector2.one*.5f,n);
         }
         static Sprite Tile(int type)
         {
@@ -112,7 +155,7 @@ namespace Emberfall
         public static void Ground(Transform parent,Vector2 pos,int zone)
         {
             Color color=zone==2?new Color(.29f,.30f,.32f):new Color(.27f,.31f,.22f);
-            var go=Shape("Ground",parent,pos,Vector2.one*1.015f,color,-30);go.GetComponent<SpriteRenderer>().sprite=Tile(zone==2?2:0);
+            var go=Shape("Ground",parent,pos,Vector2.one,color,-30);var sr=go.GetComponent<SpriteRenderer>();sr.sprite=Tile(zone==2?2:0);sr.drawMode=SpriteDrawMode.Tiled;sr.size=new Vector2(44,24);
         }
         public static void Decorate(Transform parent,int zone)
         {
@@ -143,7 +186,8 @@ namespace Emberfall
             var root=new GameObject(name);root.transform.SetParent(parent,false);root.transform.localPosition=pos;
             Shape("Shadow",root.transform,new Vector2(0,-.38f),new Vector2(1.1f,.32f)*scale,new Color(0,0,0,.55f),8,true);
             int index=name=="Wanderer"?0:name=="Ravager"?1:name=="Bone Archer"?2:name=="Mire Hexer"?3:4;
-            Prop(index,"Body",root.transform,new Vector2(0,.35f)*scale,Vector2.one*1.75f*scale,10);
+            var body=Prop(index,"Body",root.transform,new Vector2(0,index==0?.35f:-.43f)*scale,Vector2.one*1.75f*scale,10);
+            if(index>0)body.GetComponent<SpriteRenderer>().sprite=EnemyFrame(index-1,0);
             root.AddComponent<ActorVisual>();return root;
         }
     }

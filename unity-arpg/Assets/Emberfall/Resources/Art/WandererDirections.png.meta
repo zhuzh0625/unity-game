@@ -1,0 +1,5161 @@
+fileFormatVersion: 2
+guid: 40a3bf504732f5f4f907c98f6745f450
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8488148526504676317
+    second: WandererDirections_0
+  - first:
+      213: -6020169030200318285
+    second: WandererDirections_1
+  - first:
+      213: 8695548054338891324
+    second: WandererDirections_2
+  - first:
+      213: -8074173793073322386
+    second: WandererDirections_3
+  - first:
+      213: 6575321423228931082
+    second: WandererDirections_4
+  - first:
+      213: -564525379083579460
+    second: WandererDirections_5
+  - first:
+      213: 8110512991971769918
+    second: WandererDirections_6
+  - first:
+      213: -6769212159607680488
+    second: WandererDirections_7
+  - first:
+      213: -8186339165930619509
+    second: WandererDirections_8
+  - first:
+      213: -5474434542344567379
+    second: WandererDirections_9
+  - first:
+      213: 2434819344143582062
+    second: WandererDirections_10
+  - first:
+      213: -6431674205331675453
+    second: WandererDirections_11
+  - first:
+      213: 1440905222101912731
+    second: WandererDirections_12
+  - first:
+      213: 8308894164116631921
+    second: WandererDirections_13
+  - first:
+      213: -2618938876063670065
+    second: WandererDirections_14
+  - first:
+      213: 2887468552278715982
+    second: WandererDirections_15
+  - first:
+      213: -7112445768826072372
+    second: WandererDirections_16
+  - first:
+      213: 6437608979697355796
+    second: WandererDirections_17
+  - first:
+      213: 6199338811665448578
+    second: WandererDirections_18
+  - first:
+      213: 3463972677253376510
+    second: WandererDirections_19
+  - first:
+      213: 1004592952864299938
+    second: WandererDirections_20
+  - first:
+      213: -624051687962613772
+    second: WandererDirections_21
+  - first:
+      213: 6549858910288516301
+    second: WandererDirections_22
+  - first:
+      213: -2290903307815649523
+    second: WandererDirections_23
+  - first:
+      213: 2600879498354401379
+    second: WandererDirections_24
+  - first:
+      213: -4454823205774651079
+    second: WandererDirections_25
+  - first:
+      213: 3942465563044134713
+    second: WandererDirections_26
+  - first:
+      213: 3146969001341474055
+    second: WandererDirections_27
+  - first:
+      213: 3884263630632200024
+    second: WandererDirections_28
+  - first:
+      213: 1934345957722199896
+    second: WandererDirections_29
+  - first:
+      213: 2643549073489809480
+    second: WandererDirections_30
+  - first:
+      213: -3996080244084035443
+    second: WandererDirections_31
+  - first:
+      213: -9159074164900152197
+    second: WandererDirections_32
+  - first:
+      213: 4919732567068815443
+    second: WandererDirections_33
+  - first:
+      213: -406921345782585485
+    second: WandererDirections_34
+  - first:
+      213: -970908284945363550
+    second: WandererDirections_35
+  - first:
+      213: -701158514299350175
+    second: WandererDirections_36
+  - first:
+      213: 6667641184067379443
+    second: WandererDirections_37
+  - first:
+      213: -309250598102776430
+    second: WandererDirections_38
+  - first:
+      213: 4183625958309796719
+    second: WandererDirections_39
+  - first:
+      213: -5657742357791231795
+    second: WandererDirections_40
+  - first:
+      213: 3619386942272950435
+    second: WandererDirections_41
+  - first:
+      213: -8415990926617629861
+    second: WandererDirections_42
+  - first:
+      213: 8834523174576458202
+    second: WandererDirections_43
+  - first:
+      213: 6172351273850156797
+    second: WandererDirections_44
+  - first:
+      213: 3236202429044779533
+    second: WandererDirections_45
+  - first:
+      213: 6216901033881041248
+    second: WandererDirections_46
+  - first:
+      213: -127270255581699828
+    second: WandererDirections_47
+  - first:
+      213: 2921114627652618354
+    second: WandererDirections_48
+  - first:
+      213: -1915815807599547688
+    second: WandererDirections_49
+  - first:
+      213: -6263812920391589427
+    second: WandererDirections_50
+  - first:
+      213: 1847015911553852188
+    second: WandererDirections_51
+  - first:
+      213: -5931920547965558702
+    second: WandererDirections_52
+  - first:
+      213: 6725791539728561756
+    second: WandererDirections_53
+  - first:
+      213: 5736908730721094290
+    second: WandererDirections_54
+  - first:
+      213: 6033769178182092184
+    second: WandererDirections_55
+  - first:
+      213: 834726656919017426
+    second: WandererDirections_56
+  - first:
+      213: -7009973902337581271
+    second: WandererDirections_57
+  - first:
+      213: 6430958205225673434
+    second: WandererDirections_58
+  - first:
+      213: -1382283200879517158
+    second: WandererDirections_59
+  - first:
+      213: -4181506384317798919
+    second: WandererDirections_60
+  - first:
+      213: 8175234907941889337
+    second: WandererDirections_61
+  - first:
+      213: 7179098716631086004
+    second: WandererDirections_62
+  - first:
+      213: -6508241327856876409
+    second: WandererDirections_63
+  - first:
+      213: -4904693493413682590
+    second: WandererDirections_64
+  - first:
+      213: 4904797988474114977
+    second: WandererDirections_65
+  - first:
+      213: -2597155311376800112
+    second: WandererDirections_66
+  - first:
+      213: -6467456550343776343
+    second: WandererDirections_67
+  - first:
+      213: 639431253137194485
+    second: WandererDirections_68
+  - first:
+      213: -4434617962764378951
+    second: WandererDirections_69
+  - first:
+      213: 4696170812307669735
+    second: WandererDirections_70
+  - first:
+      213: -9037509370901974799
+    second: WandererDirections_71
+  - first:
+      213: 1342306727807331004
+    second: WandererDirections_72
+  - first:
+      213: 4949394051308870309
+    second: WandererDirections_73
+  - first:
+      213: -8453078414519013702
+    second: WandererDirections_74
+  - first:
+      213: 2153013332982211467
+    second: WandererDirections_75
+  - first:
+      213: -2119980585980266449
+    second: WandererDirections_76
+  - first:
+      213: -9205529010796698426
+    second: WandererDirections_77
+  - first:
+      213: 5476217887035261644
+    second: WandererDirections_78
+  - first:
+      213: 6010586334844829658
+    second: WandererDirections_79
+  - first:
+      213: 3362478248617047303
+    second: WandererDirections_80
+  - first:
+      213: 9130207517113404812
+    second: WandererDirections_81
+  - first:
+      213: -3629143532133942316
+    second: WandererDirections_82
+  - first:
+      213: 1482379308569021542
+    second: WandererDirections_83
+  - first:
+      213: 6863453952102101495
+    second: WandererDirections_84
+  - first:
+      213: -3042312364325413389
+    second: WandererDirections_85
+  - first:
+      213: -2081017133071882758
+    second: WandererDirections_86
+  - first:
+      213: 6909311487091595495
+    second: WandererDirections_87
+  - first:
+      213: -1749192961306015181
+    second: WandererDirections_88
+  - first:
+      213: 5893316886155756185
+    second: WandererDirections_89
+  - first:
+      213: -6694902756064090579
+    second: WandererDirections_90
+  - first:
+      213: -4198894720472096180
+    second: WandererDirections_91
+  - first:
+      213: 4648325957795819413
+    second: WandererDirections_92
+  - first:
+      213: 3080421302580184331
+    second: WandererDirections_93
+  - first:
+      213: 4706436188543583121
+    second: WandererDirections_94
+  - first:
+      213: -7324628715940413718
+    second: WandererDirections_95
+  - first:
+      213: -7239303308720654980
+    second: WandererDirections_96
+  - first:
+      213: -5445484737723147573
+    second: WandererDirections_97
+  - first:
+      213: 7957638065868705757
+    second: WandererDirections_98
+  - first:
+      213: 6168333299903162441
+    second: WandererDirections_99
+  - first:
+      213: -1135933850834668724
+    second: WandererDirections_100
+  - first:
+      213: -3146619594426683792
+    second: WandererDirections_101
+  - first:
+      213: -2600251749326784306
+    second: WandererDirections_102
+  - first:
+      213: -4345915110774313430
+    second: WandererDirections_103
+  - first:
+      213: -1399826874808662521
+    second: WandererDirections_104
+  - first:
+      213: 7216007448287288257
+    second: WandererDirections_105
+  - first:
+      213: 3957072909329721596
+    second: WandererDirections_106
+  - first:
+      213: -5969088062758736785
+    second: WandererDirections_107
+  - first:
+      213: 5401066661738120268
+    second: WandererDirections_108
+  - first:
+      213: 28978002093722656
+    second: WandererDirections_109
+  - first:
+      213: -7066713517825073782
+    second: WandererDirections_110
+  - first:
+      213: -1111874960331440896
+    second: WandererDirections_111
+  - first:
+      213: 7666949318532758904
+    second: WandererDirections_112
+  - first:
+      213: 98720108412776640
+    second: WandererDirections_113
+  - first:
+      213: 4745741101953310021
+    second: WandererDirections_114
+  - first:
+      213: -7195592997968714277
+    second: WandererDirections_115
+  - first:
+      213: 6055677947568990112
+    second: WandererDirections_116
+  - first:
+      213: -894837232224139136
+    second: WandererDirections_117
+  - first:
+      213: -3453517921008812918
+    second: WandererDirections_118
+  - first:
+      213: 8351373212588828019
+    second: WandererDirections_119
+  - first:
+      213: -6710370096905044665
+    second: WandererDirections_120
+  - first:
+      213: -8722068997869448817
+    second: WandererDirections_121
+  - first:
+      213: -5472002760880717510
+    second: WandererDirections_122
+  - first:
+      213: -6313218939432744896
+    second: WandererDirections_123
+  - first:
+      213: 1242445402423386886
+    second: WandererDirections_124
+  - first:
+      213: 8527309078450629598
+    second: WandererDirections_125
+  - first:
+      213: -4663946946153737677
+    second: WandererDirections_126
+  - first:
+      213: -8039396510760532797
+    second: WandererDirections_127
+  - first:
+      213: 402892760818324068
+    second: WandererDirections_128
+  - first:
+      213: 1262692212932314089
+    second: WandererDirections_129
+  - first:
+      213: 465651128991245517
+    second: WandererDirections_130
+  - first:
+      213: -596422626908349421
+    second: WandererDirections_131
+  - first:
+      213: 4665728873983423600
+    second: WandererDirections_132
+  - first:
+      213: 7317420481314260267
+    second: WandererDirections_133
+  - first:
+      213: 3921709489732178470
+    second: WandererDirections_134
+  - first:
+      213: 7351412362695766890
+    second: WandererDirections_135
+  - first:
+      213: -8106914558506876366
+    second: WandererDirections_136
+  - first:
+      213: 8267637348981071852
+    second: WandererDirections_137
+  - first:
+      213: 1573096932630844111
+    second: WandererDirections_138
+  - first:
+      213: 1912240149399533911
+    second: WandererDirections_139
+  - first:
+      213: 2104991363386252372
+    second: WandererDirections_140
+  - first:
+      213: 8294175706498470174
+    second: WandererDirections_141
+  - first:
+      213: 7703765390863756607
+    second: WandererDirections_142
+  - first:
+      213: 3533192175507113102
+    second: WandererDirections_143
+  - first:
+      213: 7193341199389810842
+    second: WandererDirections_144
+  - first:
+      213: 8305334966688110029
+    second: WandererDirections_145
+  - first:
+      213: 8231373956698032453
+    second: WandererDirections_146
+  - first:
+      213: 5504042257597919656
+    second: WandererDirections_147
+  - first:
+      213: -7559337743402715385
+    second: WandererDirections_148
+  - first:
+      213: 7992754825010379915
+    second: WandererDirections_149
+  - first:
+      213: -5991057497986412061
+    second: WandererDirections_150
+  - first:
+      213: -1301555490904261814
+    second: WandererDirections_151
+  - first:
+      213: 4204138043649228817
+    second: WandererDirections_152
+  - first:
+      213: -7418914786218797068
+    second: WandererDirections_153
+  - first:
+      213: -7350314056689396727
+    second: WandererDirections_154
+  - first:
+      213: 1967214263279840458
+    second: WandererDirections_155
+  - first:
+      213: 8959338027031145339
+    second: WandererDirections_156
+  - first:
+      213: -8799212920507522894
+    second: WandererDirections_157
+  - first:
+      213: 7576829591972793634
+    second: WandererDirections_158
+  - first:
+      213: 9054613768119195634
+    second: WandererDirections_159
+  - first:
+      213: 9105924309703047259
+    second: WandererDirections_160
+  - first:
+      213: -3597869341938679579
+    second: WandererDirections_161
+  - first:
+      213: -8764274767901918043
+    second: WandererDirections_162
+  - first:
+      213: 4639943016712671873
+    second: WandererDirections_163
+  - first:
+      213: 6473393727672767068
+    second: WandererDirections_164
+  - first:
+      213: -7105939638825440907
+    second: WandererDirections_165
+  - first:
+      213: 5740836111893705818
+    second: WandererDirections_166
+  - first:
+      213: -7152004030379707956
+    second: WandererDirections_167
+  - first:
+      213: -868047340548058044
+    second: WandererDirections_168
+  - first:
+      213: 7918030666804823917
+    second: WandererDirections_169
+  - first:
+      213: 1011323923249515958
+    second: WandererDirections_170
+  - first:
+      213: -8545289878736970044
+    second: WandererDirections_171
+  - first:
+      213: 1074816976290243757
+    second: WandererDirections_172
+  - first:
+      213: -4364403200899665735
+    second: WandererDirections_173
+  - first:
+      213: 4925482198226701121
+    second: WandererDirections_174
+  - first:
+      213: -923502131208917594
+    second: WandererDirections_175
+  - first:
+      213: 606890218939199383
+    second: WandererDirections_176
+  - first:
+      213: 6569991090563936597
+    second: WandererDirections_177
+  - first:
+      213: 8958854150774856364
+    second: WandererDirections_178
+  - first:
+      213: -2932532788329492594
+    second: WandererDirections_179
+  - first:
+      213: 8014136457729669702
+    second: WandererDirections_180
+  - first:
+      213: -6478058761654723004
+    second: WandererDirections_181
+  - first:
+      213: 5276632390258455014
+    second: WandererDirections_182
+  - first:
+      213: -1948907442993966826
+    second: WandererDirections_183
+  - first:
+      213: -3517563677601060150
+    second: WandererDirections_184
+  - first:
+      213: 5444298546083516267
+    second: WandererDirections_185
+  - first:
+      213: 1110895150905155717
+    second: WandererDirections_186
+  - first:
+      213: 3491398550852304304
+    second: WandererDirections_187
+  - first:
+      213: 3255454929026826934
+    second: WandererDirections_188
+  - first:
+      213: 6962579880311755013
+    second: WandererDirections_189
+  - first:
+      213: 3461311697960375376
+    second: WandererDirections_190
+  - first:
+      213: -2852941854582830422
+    second: WandererDirections_191
+  - first:
+      213: -1996367580120887325
+    second: WandererDirections_192
+  - first:
+      213: 8239152943376826893
+    second: WandererDirections_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WandererDirections_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 325
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb011bdc16fbc570800000000000000
+      internalID: 8488148526504676317
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 923
+        width: 337
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b62a1bc920147ca0800000000000000
+      internalID: -6020169030200318285
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_2
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 933
+        width: 270
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e653a62eacca870800000000000000
+      internalID: 8695548054338891324
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1222
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66a819c6b5c2ff80800000000000000
+      internalID: -8074173793073322386
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_4
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1216
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c83933ffb304b50800000000000000
+      internalID: 6575321423228931082
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_5
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1181
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfc701a8276a28f0800000000000000
+      internalID: -564525379083579460
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 931
+        width: 324
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3efaa848945e8070800000000000000
+      internalID: 8110512991971769918
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1187
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8125459d76dee02a0800000000000000
+      internalID: -6769212159607680488
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_8
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1187
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d76d3d6e7446e80800000000000000
+      internalID: -8186339165930619509
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1132
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da58c6dd9c6e604b0800000000000000
+      internalID: -5474434542344567379
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1170
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e638de31b473ac120800000000000000
+      internalID: 2434819344143582062
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1150
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6a920036a1eb6a0800000000000000
+      internalID: -6431674205331675453
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_12
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1175
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cc36e4aaf1ff310800000000000000
+      internalID: 1440905222101912731
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1151
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171fc78483f1f4370800000000000000
+      internalID: 8308894164116631921
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0a3cbc7f8a7abd0800000000000000
+      internalID: -2618938876063670065
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e2fae8959521820800000000000000
+      internalID: 2887468552278715982
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_16
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1127
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc254e0b1448b4d90800000000000000
+      internalID: -7112445768826072372
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1094
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cc9b5524bf65950800000000000000
+      internalID: 6437608979697355796
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_18
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1090
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e7c9fbdc9780650800000000000000
+      internalID: 6199338811665448578
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_19
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1082
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9a85b0cc0821030800000000000000
+      internalID: 3463972677253376510
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_20
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1092
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab5653d7f701fd00800000000000000
+      internalID: 1004592952864299938
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_21
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1082
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f76181db4ce657f0800000000000000
+      internalID: -624051687962613772
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_22
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1078
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc49cace9f5c5ea50800000000000000
+      internalID: 6549858910288516301
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_23
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1050
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f71ea44931530e0800000000000000
+      internalID: -2290903307815649523
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1050
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360a20baf1e281420800000000000000
+      internalID: 2600879498354401379
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1062
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93192a2a5e94d22c0800000000000000
+      internalID: -4454823205774651079
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1046
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fb470aa8376b630800000000000000
+      internalID: 3942465563044134713
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_27
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1000
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705df1422a74cab20800000000000000
+      internalID: 3146969001341474055
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_28
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1060
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8572dcd313da7e530800000000000000
+      internalID: 3884263630632200024
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8579eb2666d28da10800000000000000
+      internalID: 1934345957722199896
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1014
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8405caf40e5cfa420800000000000000
+      internalID: 2643549073489809480
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_31
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1036
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d803a6da0321b88c0800000000000000
+      internalID: -3996080244084035443
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_32
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1018
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c3ba9e29e64e080800000000000000
+      internalID: -9159074164900152197
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_33
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 996
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350be0234b6664440800000000000000
+      internalID: 4919732567068815443
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_34
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1012
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377ea1521335a5af0800000000000000
+      internalID: -406921345782585485
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 994
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad09561f04a682f0800000000000000
+      internalID: -970908284945363550
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_36
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 957
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16352ffcb0cf446f0800000000000000
+      internalID: -701158514299350175
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_37
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 976
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0e91a8458388c50800000000000000
+      internalID: 6667641184067379443
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 986
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295c181383255bbf0800000000000000
+      internalID: -309250598102776430
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_39
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 921
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b982ea4a93f0a30800000000000000
+      internalID: 4183625958309796719
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_40
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 970
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc03c253d49ab71b0800000000000000
+      internalID: -5657742357791231795
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 964
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0ddd66f35aa3230800000000000000
+      internalID: 3619386942272950435
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_42
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 966
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bab0297d4643b80800000000000000
+      internalID: -8415990926617629861
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 949
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9069c15088a9a70800000000000000
+      internalID: 8834523174576458202
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_44
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 953
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6b4c2f7c898a550800000000000000
+      internalID: 6172351273850156797
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_45
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 947
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a687c86fc49ec20800000000000000
+      internalID: 3236202429044779533
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_46
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 930
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069fc304d8ed64650800000000000000
+      internalID: 6216901033881041248
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_47
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 946
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0164997068db3ef0800000000000000
+      internalID: -127270255581699828
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_48
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 947
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2788e61f642e98820800000000000000
+      internalID: 2921114627652618354
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 630
+        width: 195
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da63f46ca7a965e0800000000000000
+      internalID: -1915815807599547688
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_50
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 627
+        width: 275
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1ae8406577219a0800000000000000
+      internalID: -6263812920391589427
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 857
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1369a68f2be1a910800000000000000
+      internalID: 1847015911553852188
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_52
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 937
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502ca6b0b59dada0800000000000000
+      internalID: -5931920547965558702
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 933
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5639d645cfc65d50800000000000000
+      internalID: 6725791539728561756
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_54
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 518
+        width: 314
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ac77b58189d9f40800000000000000
+      internalID: 5736908730721094290
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_55
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 903
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8958e3a69114cb350800000000000000
+      internalID: 6033769178182092184
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 922
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7153ec87b859b00800000000000000
+      internalID: 834726656919017426
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_57
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 925
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fd86250e197be90800000000000000
+      internalID: -7009973902337581271
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_58
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 923
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad22cdb3a6a5f3950800000000000000
+      internalID: 6430958205225673434
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_59
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 916
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a122690a0c421dce0800000000000000
+      internalID: -1382283200879517158
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_60
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 917
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5a5b8191e48f5c0800000000000000
+      internalID: -4181506384317798919
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_61
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 911
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935ef33a5d4447170800000000000000
+      internalID: 8175234907941889337
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_62
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 613
+        width: 356
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3324c0f3841a360800000000000000
+      internalID: 7179098716631086004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_63
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 927
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78403949ef41ea5a0800000000000000
+      internalID: -6508241327856876409
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_64
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 901
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26268e001470febb0800000000000000
+      internalID: -4904693493413682590
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 869
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3dc06a8c7511440800000000000000
+      internalID: 4904797988474114977
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_66
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 851
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096edde210d05fbd0800000000000000
+      internalID: -2597155311376800112
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_67
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 843
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a76c74988afe36a0800000000000000
+      internalID: -6467456550343776343
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_68
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 811
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd768d3657bfd800800000000000000
+      internalID: 639431253137194485
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 797
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcdcde55721572c0800000000000000
+      internalID: -4434617962764378951
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_70
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 806
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e20820f8762c2140800000000000000
+      internalID: 4696170812307669735
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_71
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 802
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0bf152c11549280800000000000000
+      internalID: -9037509370901974799
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_72
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 785
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaa29a6bd4d0a210800000000000000
+      internalID: 1342306727807331004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_73
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 763
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa52b9aaa7cfa440800000000000000
+      internalID: 4949394051308870309
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_74
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 742
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe6214e7f1a0ba80800000000000000
+      internalID: -8453078414519013702
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_75
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 739
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83a51d183a01ed10800000000000000
+      internalID: 2153013332982211467
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_76
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 746
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28fbe1a3e05492e0800000000000000
+      internalID: -2119980585980266449
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_77
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 706
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4e8ed33246f3080800000000000000
+      internalID: -9205529010796698426
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 720
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2806d672f6ffb40800000000000000
+      internalID: 5476217887035261644
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_79
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 710
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf3e341d64e96350800000000000000
+      internalID: 6010586334844829658
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_80
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 720
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705fbc5e62ce9ae20800000000000000
+      internalID: 3362478248617047303
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_81
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 714
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d4527ec5305be70800000000000000
+      internalID: 9130207517113404812
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_82
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 706
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbff308f21b2adc0800000000000000
+      internalID: -3629143532133942316
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_83
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 712
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c45ad8028729410800000000000000
+      internalID: 1482379308569021542
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_84
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 696
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1fb4b5103ef3f50800000000000000
+      internalID: 6863453952102101495
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_85
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 660
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdda94060987c5d0800000000000000
+      internalID: -3042312364325413389
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_86
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 695
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5afb371fdbe13e0800000000000000
+      internalID: -2081017133071882758
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_87
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 690
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8de9eb03ec2ef50800000000000000
+      internalID: 6909311487091595495
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33acdb1f44e99b7e0800000000000000
+      internalID: -1749192961306015181
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 659
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992002cdb7449c150800000000000000
+      internalID: 5893316886155756185
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 640
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26240b1a6de613a0800000000000000
+      internalID: -6694902756064090579
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_91
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 634
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c426ff89f778ab5c0800000000000000
+      internalID: -4198894720472096180
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_92
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 648
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa5aaa4db228040800000000000000
+      internalID: 4648325957795819413
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_93
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 620
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0586da9adadfba20800000000000000
+      internalID: 3080421302580184331
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 337
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1930f2817ce905140800000000000000
+      internalID: 4706436188543583121
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_95
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 610
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeefeba8df0b95a90800000000000000
+      internalID: -7324628715940413718
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_96
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 608
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7535660ff3d88b90800000000000000
+      internalID: -7239303308720654980
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_97
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 632
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca53328b70cd64b0800000000000000
+      internalID: -5445484737723147573
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_98
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 620
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf0b37d8a53f6e60800000000000000
+      internalID: 7957638065868705757
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_99
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 567
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948e0fc74725a9550800000000000000
+      internalID: 6168333299903162441
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_100
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 626
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4378ac5e2a5c30f0800000000000000
+      internalID: -1135933850834668724
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_101
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 632
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ee9ee7626f454d0800000000000000
+      internalID: -3146619594426683792
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_102
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 287
+        width: 288
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f9ca8fcc0aebd0800000000000000
+      internalID: -2600251749326784306
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_103
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 626
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e6b4e7b3530b3c0800000000000000
+      internalID: -4345915110774313430
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_104
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 594
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7060cfbbfd0d29ce0800000000000000
+      internalID: -1399826874808662521
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_105
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 309
+        width: 249
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb9cbbca88642460800000000000000
+      internalID: 7216007448287288257
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_106
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 602
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf86be678d85ae630800000000000000
+      internalID: 3957072909329721596
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_107
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 560
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cad32580a892da0800000000000000
+      internalID: -5969088062758736785
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_108
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 314
+        width: 328
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c440b15438174fa40800000000000000
+      internalID: 5401066661738120268
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_109
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 612
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cc811e653f66000800000000000000
+      internalID: 28978002093722656
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_110
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 602
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd5902f7dfded90800000000000000
+      internalID: -7066713517825073782
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_111
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 604
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dfac25d93d190f0800000000000000
+      internalID: -1111874960331440896
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d7112b8c9766a60800000000000000
+      internalID: 7666949318532758904
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_113
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 580
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0b1226a69be5100800000000000000
+      internalID: 98720108412776640
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_114
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 562
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dd5e163624cd140800000000000000
+      internalID: 4745741101953310021
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_115
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 526
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd569cfca4e142c90800000000000000
+      internalID: -7195592997968714277
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_116
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 554
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7240b42071a0450800000000000000
+      internalID: 6055677947568990112
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_117
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 556
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0888c714746e493f0800000000000000
+      internalID: -894837232224139136
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_118
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 533
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cf2d49fb3a210d0800000000000000
+      internalID: -3453517921008812918
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_119
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 550
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375e11b70b906e370800000000000000
+      internalID: 8351373212588828019
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_120
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 533
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d329e23f9ffd2a0800000000000000
+      internalID: -6710370096905044665
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_121
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 535
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f815b8b357cf4f680800000000000000
+      internalID: -8722068997869448817
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_122
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 538
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a318fbb1b7a8f04b0800000000000000
+      internalID: -5472002760880717510
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_123
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 527
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048c7ddc2d0f268a0800000000000000
+      internalID: -6313218939432744896
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_124
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 519
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6036340c28d0e3110800000000000000
+      internalID: 1242445402423386886
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_125
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 529
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb630f5d66175670800000000000000
+      internalID: 8527309078450629598
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 526
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3321d3f86f4564fb0800000000000000
+      internalID: -4663946946153737677
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_127
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 515
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c48a9fc7735e6090800000000000000
+      internalID: -8039396510760532797
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_128
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 503
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4621723d4dc579500800000000000000
+      internalID: 402892760818324068
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_129
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 528
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e38b7ca0ebf58110800000000000000
+      internalID: 1262692212932314089
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_130
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 465
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc468c41c33567600800000000000000
+      internalID: 465651128991245517
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_131
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 515
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c5f13e7c419b7f0800000000000000
+      internalID: -596422626908349421
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_132
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 467
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b018d0bfffb040800000000000000
+      internalID: 4665728873983423600
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_133
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 513
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2587ec8823bc8560800000000000000
+      internalID: 7317420481314260267
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_134
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 508
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622d3c7b006bc6630800000000000000
+      internalID: 3921709489732178470
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_135
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 515
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6375eb2896750660800000000000000
+      internalID: 7351412362695766890
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_136
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 475
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23241cb49247e7f80800000000000000
+      internalID: -8106914558506876366
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_137
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 485
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefd4c57d5c8cb270800000000000000
+      internalID: 8267637348981071852
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_138
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 441
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2d7ba5353c4d510800000000000000
+      internalID: 1573096932630844111
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_139
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 417
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f23ec844a98a10800000000000000
+      internalID: 1912240149399533911
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_140
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 440
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c17e50e7e663d10800000000000000
+      internalID: 2104991363386252372
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_141
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 421
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1114825cd4da1370800000000000000
+      internalID: 8294175706498470174
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_142
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 377
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3de1638ec549ea60800000000000000
+      internalID: 7703765390863756607
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_143
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 441
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e848a40609b680130800000000000000
+      internalID: 3533192175507113102
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_144
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 425
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90efc975b1e3d360800000000000000
+      internalID: 7193341199389810842
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_145
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 427
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5531e062a724370800000000000000
+      internalID: 8305334966688110029
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_146
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 419
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549436e7007bb3270800000000000000
+      internalID: 8231373956698032453
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_147
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 403
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1fcd88549426c40800000000000000
+      internalID: 5504042257597919656
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_148
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 401
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707374b9f56d71790800000000000000
+      internalID: -7559337743402715385
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_149
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 409
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c78897a28fbee60800000000000000
+      internalID: 7992754825010379915
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_150
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 381
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1549392fc7bdca0800000000000000
+      internalID: -5991057497986412061
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_151
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 381
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b313d4d22ffede0800000000000000
+      internalID: -1301555490904261814
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_152
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 393
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1100b66b649185a30800000000000000
+      internalID: 4204138043649228817
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_153
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 363
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7198c1f48ba0990800000000000000
+      internalID: -7418914786218797068
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_154
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 327
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d77f1f407ef990800000000000000
+      internalID: -7350314056689396727
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_155
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 334
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc60ef13f2fc4b10800000000000000
+      internalID: 1967214263279840458
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_156
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 300
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b27db8776f55c70800000000000000
+      internalID: 8959338027031145339
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_157
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 338
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b02f12187ae2e580800000000000000
+      internalID: -8799212920507522894
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_158
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 341
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dc431ce5e462960800000000000000
+      internalID: 7576829591972793634
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_159
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 312
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f71b1baf3378ad70800000000000000
+      internalID: 9054613768119195634
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_160
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 333
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58b1771aedbe5e70800000000000000
+      internalID: 9105924309703047259
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_161
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 335
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e00a7555ecc11ec0800000000000000
+      internalID: -3597869341938679579
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_162
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 331
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac7941a88a0f5680800000000000000
+      internalID: -8764274767901918043
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_163
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18296391793646040800000000000000
+      internalID: 4639943016712671873
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_164
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 302
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c525d2d3c4d16d950800000000000000
+      internalID: 6473393727672767068
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_165
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 260
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57921702c81a26d90800000000000000
+      internalID: -7105939638825440907
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_166
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 270
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54b82b070c8baf40800000000000000
+      internalID: 5740836111893705818
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_167
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 298
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc13e013a3afebc90800000000000000
+      internalID: -7152004030379707956
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_168
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 352
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444196afa8314f3f0800000000000000
+      internalID: -868047340548058044
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_169
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 306
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d670d8f90fe72ed60800000000000000
+      internalID: 7918030666804823917
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_170
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 312
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd442effb1f80e00800000000000000
+      internalID: 1011323923249515958
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 296
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce54235128096980800000000000000
+      internalID: -8545289878736970044
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_172
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 351
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4e65668548aee00800000000000000
+      internalID: 1074816976290243757
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_173
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 287
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b03cc199668e63c0800000000000000
+      internalID: -4364403200899665735
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_174
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b00d486f3da5440800000000000000
+      internalID: 4925482198226701121
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_175
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 254
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ade9ff54bf0f23f0800000000000000
+      internalID: -923502131208917594
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fa78d407b1c6800800000000000000
+      internalID: 606890218939199383
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_177
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 258
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5517b8a661c4d2b50800000000000000
+      internalID: 6569991090563936597
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_178
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 232
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa1873526e345c70800000000000000
+      internalID: 8958854150774856364
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_179
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 229
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f4f6b57fc8d47d0800000000000000
+      internalID: -2932532788329492594
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_180
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64afb78c5aee73f60800000000000000
+      internalID: 8014136457729669702
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_181
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 215
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e9675e0ef4916a0800000000000000
+      internalID: -6478058761654723004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_182
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 178
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1fcafb33d5a3940800000000000000
+      internalID: 5276632390258455014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_183
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 176
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611da30a10714f4e0800000000000000
+      internalID: -1948907442993966826
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_184
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 168
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaa5c9d87a1f2fc0800000000000000
+      internalID: -3517563677601060150
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_185
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 154
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fcb7abea80e8b40800000000000000
+      internalID: 5444298546083516267
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_186
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 126
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e7640141ba6f00800000000000000
+      internalID: 1110895150905155717
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_187
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 147
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd7dd8db70f37030800000000000000
+      internalID: 3491398550852304304
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_188
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 151
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b240f28203bd2d20800000000000000
+      internalID: 3255454929026826934
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_189
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5019346038d00a060800000000000000
+      internalID: 6962579880311755013
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_190
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05415d586ac090030800000000000000
+      internalID: 3461311697960375376
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_191
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa0fb0bf705868d0800000000000000
+      internalID: -2852941854582830422
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_192
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc9c9534a7b44e0800000000000000
+      internalID: -1996367580120887325
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererDirections_193
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 63
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d020718f2f9575270800000000000000
+      internalID: 8239152943376826893
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    customData:
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WandererDirections_0: 8488148526504676317
+      WandererDirections_1: -6020169030200318285
+      WandererDirections_10: 2434819344143582062
+      WandererDirections_100: -1135933850834668724
+      WandererDirections_101: -3146619594426683792
+      WandererDirections_102: -2600251749326784306
+      WandererDirections_103: -4345915110774313430
+      WandererDirections_104: -1399826874808662521
+      WandererDirections_105: 7216007448287288257
+      WandererDirections_106: 3957072909329721596
+      WandererDirections_107: -5969088062758736785
+      WandererDirections_108: 5401066661738120268
+      WandererDirections_109: 28978002093722656
+      WandererDirections_11: -6431674205331675453
+      WandererDirections_110: -7066713517825073782
+      WandererDirections_111: -1111874960331440896
+      WandererDirections_112: 7666949318532758904
+      WandererDirections_113: 98720108412776640
+      WandererDirections_114: 4745741101953310021
+      WandererDirections_115: -7195592997968714277
+      WandererDirections_116: 6055677947568990112
+      WandererDirections_117: -894837232224139136
+      WandererDirections_118: -3453517921008812918
+      WandererDirections_119: 8351373212588828019
+      WandererDirections_12: 1440905222101912731
+      WandererDirections_120: -6710370096905044665
+      WandererDirections_121: -8722068997869448817
+      WandererDirections_122: -5472002760880717510
+      WandererDirections_123: -6313218939432744896
+      WandererDirections_124: 1242445402423386886
+      WandererDirections_125: 8527309078450629598
+      WandererDirections_126: -4663946946153737677
+      WandererDirections_127: -8039396510760532797
+      WandererDirections_128: 402892760818324068
+      WandererDirections_129: 1262692212932314089
+      WandererDirections_13: 8308894164116631921
+      WandererDirections_130: 465651128991245517
+      WandererDirections_131: -596422626908349421
+      WandererDirections_132: 4665728873983423600
+      WandererDirections_133: 7317420481314260267
+      WandererDirections_134: 3921709489732178470
+      WandererDirections_135: 7351412362695766890
+      WandererDirections_136: -8106914558506876366
+      WandererDirections_137: 8267637348981071852
+      WandererDirections_138: 1573096932630844111
+      WandererDirections_139: 1912240149399533911
+      WandererDirections_14: -2618938876063670065
+      WandererDirections_140: 2104991363386252372
+      WandererDirections_141: 8294175706498470174
+      WandererDirections_142: 7703765390863756607
+      WandererDirections_143: 3533192175507113102
+      WandererDirections_144: 7193341199389810842
+      WandererDirections_145: 8305334966688110029
+      WandererDirections_146: 8231373956698032453
+      WandererDirections_147: 5504042257597919656
+      WandererDirections_148: -7559337743402715385
+      WandererDirections_149: 7992754825010379915
+      WandererDirections_15: 2887468552278715982
+      WandererDirections_150: -5991057497986412061
+      WandererDirections_151: -1301555490904261814
+      WandererDirections_152: 4204138043649228817
+      WandererDirections_153: -7418914786218797068
+      WandererDirections_154: -7350314056689396727
+      WandererDirections_155: 1967214263279840458
+      WandererDirections_156: 8959338027031145339
+      WandererDirections_157: -8799212920507522894
+      WandererDirections_158: 7576829591972793634
+      WandererDirections_159: 9054613768119195634
+      WandererDirections_16: -7112445768826072372
+      WandererDirections_160: 9105924309703047259
+      WandererDirections_161: -3597869341938679579
+      WandererDirections_162: -8764274767901918043
+      WandererDirections_163: 4639943016712671873
+      WandererDirections_164: 6473393727672767068
+      WandererDirections_165: -7105939638825440907
+      WandererDirections_166: 5740836111893705818
+      WandererDirections_167: -7152004030379707956
+      WandererDirections_168: -868047340548058044
+      WandererDirections_169: 7918030666804823917
+      WandererDirections_17: 6437608979697355796
+      WandererDirections_170: 1011323923249515958
+      WandererDirections_171: -8545289878736970044
+      WandererDirections_172: 1074816976290243757
+      WandererDirections_173: -4364403200899665735
+      WandererDirections_174: 4925482198226701121
+      WandererDirections_175: -923502131208917594
+      WandererDirections_176: 606890218939199383
+      WandererDirections_177: 6569991090563936597
+      WandererDirections_178: 8958854150774856364
+      WandererDirections_179: -2932532788329492594
+      WandererDirections_18: 6199338811665448578
+      WandererDirections_180: 8014136457729669702
+      WandererDirections_181: -6478058761654723004
+      WandererDirections_182: 5276632390258455014
+      WandererDirections_183: -1948907442993966826
+      WandererDirections_184: -3517563677601060150
+      WandererDirections_185: 5444298546083516267
+      WandererDirections_186: 1110895150905155717
+      WandererDirections_187: 3491398550852304304
+      WandererDirections_188: 3255454929026826934
+      WandererDirections_189: 6962579880311755013
+      WandererDirections_19: 3463972677253376510
+      WandererDirections_190: 3461311697960375376
+      WandererDirections_191: -2852941854582830422
+      WandererDirections_192: -1996367580120887325
+      WandererDirections_193: 8239152943376826893
+      WandererDirections_2: 8695548054338891324
+      WandererDirections_20: 1004592952864299938
+      WandererDirections_21: -624051687962613772
+      WandererDirections_22: 6549858910288516301
+      WandererDirections_23: -2290903307815649523
+      WandererDirections_24: 2600879498354401379
+      WandererDirections_25: -4454823205774651079
+      WandererDirections_26: 3942465563044134713
+      WandererDirections_27: 3146969001341474055
+      WandererDirections_28: 3884263630632200024
+      WandererDirections_29: 1934345957722199896
+      WandererDirections_3: -8074173793073322386
+      WandererDirections_30: 2643549073489809480
+      WandererDirections_31: -3996080244084035443
+      WandererDirections_32: -9159074164900152197
+      WandererDirections_33: 4919732567068815443
+      WandererDirections_34: -406921345782585485
+      WandererDirections_35: -970908284945363550
+      WandererDirections_36: -701158514299350175
+      WandererDirections_37: 6667641184067379443
+      WandererDirections_38: -309250598102776430
+      WandererDirections_39: 4183625958309796719
+      WandererDirections_4: 6575321423228931082
+      WandererDirections_40: -5657742357791231795
+      WandererDirections_41: 3619386942272950435
+      WandererDirections_42: -8415990926617629861
+      WandererDirections_43: 8834523174576458202
+      WandererDirections_44: 6172351273850156797
+      WandererDirections_45: 3236202429044779533
+      WandererDirections_46: 6216901033881041248
+      WandererDirections_47: -127270255581699828
+      WandererDirections_48: 2921114627652618354
+      WandererDirections_49: -1915815807599547688
+      WandererDirections_5: -564525379083579460
+      WandererDirections_50: -6263812920391589427
+      WandererDirections_51: 1847015911553852188
+      WandererDirections_52: -5931920547965558702
+      WandererDirections_53: 6725791539728561756
+      WandererDirections_54: 5736908730721094290
+      WandererDirections_55: 6033769178182092184
+      WandererDirections_56: 834726656919017426
+      WandererDirections_57: -7009973902337581271
+      WandererDirections_58: 6430958205225673434
+      WandererDirections_59: -1382283200879517158
+      WandererDirections_6: 8110512991971769918
+      WandererDirections_60: -4181506384317798919
+      WandererDirections_61: 8175234907941889337
+      WandererDirections_62: 7179098716631086004
+      WandererDirections_63: -6508241327856876409
+      WandererDirections_64: -4904693493413682590
+      WandererDirections_65: 4904797988474114977
+      WandererDirections_66: -2597155311376800112
+      WandererDirections_67: -6467456550343776343
+      WandererDirections_68: 639431253137194485
+      WandererDirections_69: -4434617962764378951
+      WandererDirections_7: -6769212159607680488
+      WandererDirections_70: 4696170812307669735
+      WandererDirections_71: -9037509370901974799
+      WandererDirections_72: 1342306727807331004
+      WandererDirections_73: 4949394051308870309
+      WandererDirections_74: -8453078414519013702
+      WandererDirections_75: 2153013332982211467
+      WandererDirections_76: -2119980585980266449
+      WandererDirections_77: -9205529010796698426
+      WandererDirections_78: 5476217887035261644
+      WandererDirections_79: 6010586334844829658
+      WandererDirections_8: -8186339165930619509
+      WandererDirections_80: 3362478248617047303
+      WandererDirections_81: 9130207517113404812
+      WandererDirections_82: -3629143532133942316
+      WandererDirections_83: 1482379308569021542
+      WandererDirections_84: 6863453952102101495
+      WandererDirections_85: -3042312364325413389
+      WandererDirections_86: -2081017133071882758
+      WandererDirections_87: 6909311487091595495
+      WandererDirections_88: -1749192961306015181
+      WandererDirections_89: 5893316886155756185
+      WandererDirections_9: -5474434542344567379
+      WandererDirections_90: -6694902756064090579
+      WandererDirections_91: -4198894720472096180
+      WandererDirections_92: 4648325957795819413
+      WandererDirections_93: 3080421302580184331
+      WandererDirections_94: 4706436188543583121
+      WandererDirections_95: -7324628715940413718
+      WandererDirections_96: -7239303308720654980
+      WandererDirections_97: -5445484737723147573
+      WandererDirections_98: 7957638065868705757
+      WandererDirections_99: 6168333299903162441
+  mipmapLimitGroupName:
+  pSDRemoveMatte: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

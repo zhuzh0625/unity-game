@@ -1,0 +1,33 @@
+PASS Enemy attack sheet is included in the player build
+PASS Enemy 0 anticipates before launching or dealing damage
+PASS Enemy 0 displays the release pose on the actual combat event
+PASS Enemy 0 damage occurs with its release pose
+PASS Enemy 0 has a visible follow-through pose
+PASS Enemy 0 returns to its ready pose
+PASS Enemy 1 anticipates before launching or dealing damage
+PASS Pause freezes both the attack pose and its windup
+PASS Enemy 1 displays the release pose on the actual combat event
+PASS Enemy 1 emits its distinct projectile graphic
+PASS Arrow head follows the actual flight direction
+PASS Pause freezes the projectile and its animated trail
+PASS Enemy 1 has a visible follow-through pose
+PASS Enemy 1 returns to its ready pose
+PASS Enemy 1 projectile still reaches and damages its target
+PASS Enemy 2 anticipates before launching or dealing damage
+PASS Enemy 2 displays the release pose on the actual combat event
+PASS Enemy 2 emits its distinct projectile graphic
+PASS Enemy 2 has a visible follow-through pose
+PASS Enemy 2 returns to its ready pose
+PASS Enemy 2 projectile still reaches and damages its target
+PASS Enemy 3 anticipates before launching or dealing damage
+PASS Enemy 3 displays the release pose on the actual combat event
+PASS Enemy 3 damage occurs with its release pose
+PASS Enemy 3 emits its distinct projectile graphic
+PASS Enraged slam retains its six radial projectiles
+PASS Enemy 3 has a visible follow-through pose
+PASS Enemy 3 returns to its ready pose
+PASS Player O uses a flame core and animated ember trail
+PASS Player flame deals damage and returns its visual to the pool
+PASS New projectile graphics retain the swept wall collision
+PASS Killing a caster during windup cancels its shot and charge
+PASS Zone changes clear active projectile effects and preserve the reusable pool

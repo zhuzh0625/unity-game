@@ -1,1 +1,1 @@
-PASS 362 required characters baked; missing=0; static 2048 atlas; material persisted.
+PASS 403 required characters baked; missing=0; static 2048 atlas; material persisted.

@@ -16,6 +16,16 @@ namespace Emberfall.Editor
             importer.textureType=TextureImporterType.Default;importer.alphaIsTransparency=true;importer.mipmapEnabled=false;
             importer.wrapMode=TextureWrapMode.Clamp;importer.filterMode=FilterMode.Bilinear;importer.maxTextureSize=2048;
             importer.textureCompression=TextureImporterCompression.Uncompressed;importer.SaveAndReimport();
+            var hero=AssetImporter.GetAtPath("Assets/Emberfall/Resources/Art/WandererDirections.png") as TextureImporter;
+            if(hero==null)throw new Exception("Directional hero atlas is missing.");
+            hero.textureType=TextureImporterType.Default;hero.alphaIsTransparency=true;hero.mipmapEnabled=false;
+            hero.wrapMode=TextureWrapMode.Clamp;hero.filterMode=FilterMode.Bilinear;hero.npotScale=TextureImporterNPOTScale.None;
+            hero.maxTextureSize=2048;hero.textureCompression=TextureImporterCompression.Uncompressed;hero.SaveAndReimport();
+            var enemies=AssetImporter.GetAtPath("Assets/Emberfall/Resources/Art/EnemyAttacks.png") as TextureImporter;
+            if(enemies==null)throw new Exception("Enemy attack atlas is missing.");
+            enemies.textureType=TextureImporterType.Default;enemies.alphaIsTransparency=true;enemies.mipmapEnabled=false;
+            enemies.wrapMode=TextureWrapMode.Clamp;enemies.filterMode=FilterMode.Bilinear;enemies.npotScale=TextureImporterNPOTScale.None;
+            enemies.maxTextureSize=2048;enemies.textureCompression=TextureImporterCompression.Uncompressed;enemies.SaveAndReimport();
             const string path="Assets/Emberfall/Resources/Fonts/EmberfallChinese.asset";
             if(File.Exists(path))AssetDatabase.DeleteAsset(path);
             var source=AssetDatabase.LoadAssetAtPath<Font>("Assets/Emberfall/Resources/Fonts/NotoSansCJKsc-Regular.otf");

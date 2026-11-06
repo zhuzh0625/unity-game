@@ -25,3 +25,17 @@ Verification/**/*.log
 Verification/**/*.json
 Verification/**/*.json.bak
 Verification/**/*.json.tmp
+
+# Local iteration captures; keep the final reports and selected acceptance evidence.
+Verification/CombatPresentation/Run*/
+Verification/CombatPresentation/Regression/*.png
+Verification/CombatPresentation/Smoke/*.png
+Verification/Optimization/After/
+Verification/Optimization/Journey/
+Verification/Optimization/Regression/
+Verification/Optimization/ReleaseRegression/
+Verification/Optimization/ReleaseSmoke/
+Verification/Optimization/Smoke/
+Verification/Optimization/VisiblePerformance/
+Verification/Optimization/VisibleRegression/
+Verification/Optimization/VerifiedSmoke/*.png

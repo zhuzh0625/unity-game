@@ -21,6 +21,9 @@ namespace Emberfall
         {
             if(Array.IndexOf(Environment.GetCommandLineArgs(),"-emberfall-smoke")<0)return;
             earlyErrors.Clear();Application.logMessageReceived+=CaptureStartup;
+            var args=Environment.GetCommandLineArgs();int arg=Array.IndexOf(args,"-smoke-output");
+            string directory=arg>=0&&arg+1<args.Length?args[arg+1]:Application.persistentDataPath+"/Verification";
+            AdventureSave.VerificationPath=directory+"/isolated-profile.json";
             InputSystem.settings.backgroundBehavior=InputSettings.BackgroundBehavior.IgnoreFocus;
         }
         static void CaptureStartup(string message,string stack,LogType type)
@@ -104,7 +107,9 @@ namespace Emberfall
             game.health=30;int potions=game.data.potions;yield return Tap(Key.H);
             Check(game.health>30&&game.data.potions==potions-1,"H consumes a healing potion");
             game.mana=100;yield return Tap(Key.U);Check(game.cooldown[1]>0&&game.mana<90,"U cleave spends focus and starts cooldown");
+            yield return new WaitForSeconds(.25f);
             yield return Tap(Key.I);Check(game.cooldown[2]>0,"I frost starts cooldown");
+            yield return new WaitForSeconds(.25f);
             yield return Tap(Key.O);Check(game.cooldown[3]>0,"O ember projectile starts cooldown");
             yield return Tap(Key.Escape);float timer=game.cooldown[1];yield return new WaitForSeconds(.2f);
             Check(game.paused&&Mathf.Approximately(timer,game.cooldown[1]),"Escape pauses combat timers");
