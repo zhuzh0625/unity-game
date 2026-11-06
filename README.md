@@ -7,6 +7,7 @@
 | `unity-demo/` | Orbit Collector 演示 | [DEMO.md](unity-demo/DEMO.md) |
 | `unity-tank/` | 坦克游戏 | [README.md](unity-tank/README.md) |
 | `unity-racing/` | 海岸疾驰 3D 赛车 | [README.md](unity-racing/README.md) |
+| `unity-arpg/` | 余烬行者：键盘 2D ARPG 原型 | [README.md](unity-arpg/README.md) |
 
 ## 打开与开发
 

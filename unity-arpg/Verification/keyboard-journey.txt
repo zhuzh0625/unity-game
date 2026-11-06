@@ -1,0 +1,16 @@
+2.81s Started with normal camp sword, 100 HP and 5 potions
+3.25s Rested at campfire
+6.35s Entered wilderness by walking and E
+16.29s Picked up normal random loot
+16.37s Equipped random gear through B / arrows / Enter
+17.42s Entered crypt by walking and E
+21.15s Picked up normal random loot
+21.27s Equipped random gear through B / arrows / Enter
+29.97s Picked up normal random loot
+31.21s Picked up normal random loot
+31.38s Equipped random gear through B / arrows / Enter
+31.42s Warden defeated, loot collected; returning on foot
+34.90s Used western exit; zone 1
+35.10s Used western exit; zone 0
+35.10s Contract complete after walking back to camp
+35.22s PASSED; 834 keyboard events; kills=10; HP=94; potions=3

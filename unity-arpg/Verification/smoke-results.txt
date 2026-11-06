@@ -1,0 +1,25 @@
+PASS Player loop advances
+PASS Keyboard D moves the player
+PASS B opens keyboard inventory
+PASS Inventory pauses world movement
+PASS Escape closes inventory
+PASS Keyboard E leaves camp
+PASS Keyboard sword attack defeats first enemy
+PASS E picks up equipment
+PASS Keyboard inventory equips and changes damage
+PASS Keyboard inventory panel is visible
+PASS H consumes a healing potion
+PASS U cleave spends focus and starts cooldown
+PASS I frost starts cooldown
+PASS O ember projectile starts cooldown
+PASS Escape pauses combat timers
+PASS E enters fixed dungeon
+PASS Dungeon wall blocks keyboard movement
+PASS Dungeon spawns Warden boss
+PASS Live keyboard combat defeats boss
+PASS Boss produces equipment loot
+PASS Crypt west gate returns to wilderness
+PASS Return to camp completes contract
+PASS Campfire restores health and potions
+PASS Local save roundtrip preserves gear and progress
+PASS Corrupt primary save recovers backup
