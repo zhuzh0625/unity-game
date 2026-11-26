@@ -1,0 +1,41 @@
+﻿风帆海战 · 水手语音试听 V2
+
+每组包含三次表演。独立 WAV 为 48 kHz、24 位、单声道。
+对白由三个中文合成声线演绎。阵亡为真人无台词表演。
+
+
+进攻战吼
+  1  水手长    弟兄们，跟我上！    1.67 秒    (attack-1.wav)
+  2  老炮手    伙计们，抄家伙！    1.95 秒    (attack-2.wav)
+  3  年轻水手    登船！冲啊！    1.55 秒    (attack-3.wav)
+
+命中欢呼
+  1  水手长    哈！正中船舷！    1.99 秒    (hit-1.wav)
+  2  老炮手    漂亮！这炮真准！    2.29 秒    (hit-2.wav)
+  3  年轻水手    好炮！再来一发！    1.70 秒    (hit-3.wav)
+
+击杀欢呼
+  1  水手长    倒下一个！    1.14 秒    (kill-1.wav)
+  2  老炮手    哈哈，拿下了！    2.29 秒    (kill-2.wav)
+  3  年轻水手    少了一个！好样的！    2.04 秒    (kill-3.wav)
+
+打偏咒骂
+  1  水手长    唉，见鬼，打偏了！    2.32 秒    (miss-1.wav)
+  2  老炮手    他娘的，又喂鱼了！    2.42 秒    (miss-2.wav)
+  3  年轻水手    该死！白费一发！    1.73 秒    (miss-3.wav)
+
+阵亡惨叫
+  1  水手    一声短促痛叫    0.69 秒    (death-1.wav)
+  2  水手    痛喊拖成沙哑的气声    1.62 秒    (death-2.wav)
+  3  水手    低哼后断续喘息    2.12 秒    (death-3.wav)
+
+配音与来源
+
+12 句中文台词为本预览编写。对话用通义千问 qwen-audio-3.1-tts-flash 的三种系统音色生成。
+对白经过修剪、均衡、响度调整和峰值校验。模型与音色说明见阿里云百炼。
+https://help.aliyun.com/zh/model-studio/qwen-audio-tts-voice-list
+
+阵亡表演来自 thebardofblasphemy 的《grunts of male death and pain》，作者采用 CC0 1.0。
+三段各自截取不同的独立表演，经过滤波、淡化和响度处理。
+https://opengameart.org/content/grunts-male-death-and-pain
+https://creativecommons.org/publicdomain/zero/1.0/
